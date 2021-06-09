@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     private List<Student> students = new ArrayList<>();
 
 
-    private String url = "https://60afb2eee6d11e00174f4e37.mockapi.io/students";
+    private String url = "https://60afb2eee6d11e00174f4e37.mockapi.io/student";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
